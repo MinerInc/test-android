@@ -1,5 +1,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/simsimient1/test-android/total?logo=GitHub&link=https%3A%2F%2Fgithub.com%2Fsimsimient1%2Ftest-android%2Freleases)
 ![GitHub followers](https://img.shields.io/github/followers/simsimient1)
+![Xiaomi](https://img.shields.io/badge/xiaomi-soon-brightorange?style=flat&logo=Xiaomi&logoColor=white&label=MIUI%2015&color=orange&link=https%3A%2F%2Fwww.mi.com%2Fru%2Fmiui)
 
 The original [SimSimiEnt1](https://github.com/simsimient1/test-android)
 # Test
