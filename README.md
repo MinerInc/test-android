@@ -12,9 +12,7 @@ How to Hello World
 `npm install`
 # To Part One
 Thank you, love [PhoneGap](https://github.com/bysoft/android-phonegap-helloworld/tree/master)
-# About
-* [Max Patchs](https://youtube.com/@Windows10-tutorialsBlogspot)
-* [Petr Nalevka](https://github.com/petrnalevka)
-* [Matthias Urhahn](https://github.com/d4rken)
-* [Dani Mahardhika](https://github.com/danimahardhika)
-* [Hu Shenghao](https://github.com/hushenghao)
+# Download
+Google Play:
+
+![Static Badge](https://img.shields.io/badge/playstore-view-brightgreen?style=flat&logo=GooglePlay&label=no%20apps&color=green&link=https%3A%2F%2Fsupport.google.com%2Fgoogleplay%2Fandroid-developer%2F%3Fhl%3Den%23topic%3D3450769)
